@@ -31,7 +31,6 @@ namespace UdpTimeClient
                     Console.WriteLine($"Текущее время: {currentTime}");
                 }
 
-                Console.WriteLine($"Текущее время: {currentTime}");
             }
         }
     }
